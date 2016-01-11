@@ -1,0 +1,7 @@
+[package]
+name = "wc"
+version = "1.0.0"
+authors = ["Martin Dines"]
+
+[dependencies]
+getopts = "0.2"
